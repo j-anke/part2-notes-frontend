@@ -1,19 +1,54 @@
 {
-    "notes": [
-      {
-        "id": "1",
-        "content": "HTML is easy",
-        "important": true
-      },
-      {
-        "id": "2",
-        "content": "Browser can execute only JavaScript",
-        "important": false
-      },
-      {
-        "id": "3",
-        "content": "GET and POST are the most important methods of HTTP protocol",
-        "important": true
-      }
-    ]
-  }
+  "notes": [
+    {
+      "id": "1",
+      "content": "HTML is easy",
+      "important": true
+    },
+    {
+      "id": "2",
+      "content": "Browser can execute only JavaScript",
+      "important": false
+    },
+    {
+      "id": "3",
+      "content": "GET and POST are the most important methods of HTTP protocol",
+      "important": true
+    },
+    {
+      "id": "4",
+      "content": "now we have server communication",
+      "important": false
+    },
+    {
+      "id": "5",
+      "content": "the data gets stored in a json file through POST",
+      "important": true
+    },
+    {
+      "id": "6",
+      "content": "another test note",
+      "important": false
+    },
+    {
+      "id": "acb6",
+      "content": "the ids get generated automatically",
+      "important": false
+    },
+    {
+      "id": "80c4",
+      "content": "a new note...",
+      "important": true
+    },
+    {
+      "id": "d19f",
+      "content": "promises allow asynchronous communication",
+      "important": true
+    },
+    {
+      "id": "e824",
+      "content": "test 3",
+      "important": false
+    }
+  ]
+}
